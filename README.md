@@ -79,6 +79,3 @@ Navigate to `src/main/java/com/ankurnow/springbootblogwebapp/SpringbootBlogWebap
 - [IntelliJ IDEA Installation and Setup](https://www.dropbox.com/scl/fi/a1tm29spbd31hggj4qux4/Video-demo.mov?rlkey=gjkds8qza7sm9g3ggxkn05uz7&dl=0)
 - [Eclipse Installation and Setup](https://www.dropbox.com/scl/fi/a1tm29spbd31hggj4qux4/Video-demo.mov?rlkey=gjkds8qza7sm9g3ggxkn05uz7&dl=0)
 - [Blog Application Demo](https://www.dropbox.com/scl/fi/a1tm29spbd31hggj4qux4/Video-demo.mov?rlkey=gjkds8qza7sm9g3ggxkn05uz7&dl=0)
-
-The video is also available on NYU Brightspace.
-
